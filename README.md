@@ -6,6 +6,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/reportportal/service-api.svg?maxAge=25920)](https://hub.docker.com/u/reportportal/)
 [![License](https://img.shields.io/badge/license-Apache-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Build with Love](https://img.shields.io/badge/build%20with-❤%EF%B8%8F%E2%80%8D-lightgrey.svg)](http://reportportal.io?style=flat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Freportportal.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Freportportal?ref=badge_shield)
 
 
 Report Portal organized into multiple repositories.
@@ -119,3 +120,6 @@ Big features are also welcome but if you want to see your contributions included
 
 Report Portal is [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Freportportal.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Freportportal?ref=badge_large)
